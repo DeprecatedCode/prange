@@ -1,0 +1,11 @@
+import StyleSheet from 'prange/style-sheet'
+
+export default StyleSheet.create({
+  anchor: {
+    position: 'absolute',
+    top: 0,
+    bottom: 0,
+    left: 0,
+    right: 0
+  }
+})
